@@ -1,1 +1,1 @@
-# Git Responsive
+# Create new repository
